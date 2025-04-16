@@ -4,9 +4,6 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org/)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-orange)](https://www.kaggle.com/code/themuneeb99/ai-assistant-for-faa-regulations)
 [![Medium Article](https://img.shields.io/badge/Medium-Article-white)](https://medium.com/@miqbal83a/cracking-the-code-of-faa-regulations-with-ai-how-i-built-a-smarter-aviation-assistant-b74adf94dc31)
-[![HashNode Article](https://how-i-built-a-smarter-aviation-assistant.hashnode.dev/cracking-the-code-of-faa-regulations-with-ai-how-i-built-a-smarter-aviation-assistant)
-[![YouTube](https://www.youtube.com/watch?v=TyX4asRylZY)
-
 
 An AI-powered assistant that interprets complex FAA regulations in plain English with exact legal citations. Built with RAG architecture for military-grade accuracy.
 
@@ -16,6 +13,7 @@ An AI-powered assistant that interprets complex FAA regulations in plain English
 - **Kaggle Notebook**: [Full code walkthrough](https://www.kaggle.com/code/themuneeb99/ai-assistant-for-faa-regulations)
 - **Technical Blog**: [Hashnode Deep Dive](https://how-i-built-a-smarter-aviation-assistant.hashnode.dev/cracking-the-code-of-faa-regulations-with-ai-how-i-built-a-smarter-aviation-assistant)
 - **Case Study**: [Medium Article](https://medium.com/@miqbal83a/cracking-the-code-of-faa-regulations-with-ai-how-i-built-a-smarter-aviation-assistant-b74adf94dc31)
+- **YouTube**: [YouTube](https://www.youtube.com/watch?v=TyX4asRylZY)
 
 ## 🚀 Key Features
 - **Regulation Q&A**: "Can I fly my drone at night?" → Exact CFR references
